@@ -1,1 +1,4 @@
+K8s notes
+
+Create three ubuntu machine with t3.medium and ensure that you enable all traffic in the security group
 
